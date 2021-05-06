@@ -1,0 +1,5 @@
+id;FormaPagamento;StatusPagamento;DiaVencimento;Parcela
+1;Sicredi;Pago;5;225,50
+2;Banco do Brasil;Pago;3;550,50
+3;Banco do Brasil;Pago;10;550,50
+4;Bradesco;Pago;1;225,50
